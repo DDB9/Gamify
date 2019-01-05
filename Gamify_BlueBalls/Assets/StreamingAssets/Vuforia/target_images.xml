@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="cracked_road_5stars" size="50.000000 18.235294" />
+    <ImageTarget name="woodchips_5stars" size="50.000000 28.134796" />
+    <ImageTarget name="leaves_5star_bg" size="50.000000 50.000000" />
+    <ImageTarget name="HKUART5" size="50.000000 37.500000" />
+    <ImageTarget name="HKUART4" size="50.000000 35.333332" />
+    <ImageTarget name="HKUART3" size="50.000000 50.000000" />
+    <ImageTarget name="HKUART2" size="50.000000 50.000000" />
+    <ImageTarget name="HKUARt" size="50.000000 28.090910" />
+    <ImageTarget name="HKU_tweekleurig_illustratief_hku-blauw_violet_RGB" size="50.000000 18.547781" />
+    <ImageTarget name="HKU_eenkleurig_random_diap-zwart_CMYK" size="50.000000 16.686251" />
+    <ImageTarget name="HKU_eenkleurig_illustratief_zwart_CMYK" size="50.000000 15.807560" />
+    <ImageTarget name="vuforia_stones" size="50.000000 35.000000" />
+  </Tracking>
+</QCARConfig>
