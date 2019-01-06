@@ -25,6 +25,7 @@ public class ShootyScript : MonoBehaviour
                 }
             }
         }
+
         scoreText.text = "Score: " + score.ToString();
     }
 }
