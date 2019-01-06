@@ -13,7 +13,7 @@ public class ShootyScript : MonoBehaviour
 
     void Update()
     {
-        if (GameManagerScript.finishedCountDown == true)
+        if (GameManagerScript.finishedCountDown == true) // Wachten tot de countdown klaar is.
         {
             if (Input.touchCount > 0)
             {
