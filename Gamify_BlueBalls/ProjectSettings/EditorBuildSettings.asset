@@ -45,12 +45,12 @@ EditorBuildSettings:
     path: Assets/SamplesResources/Scenes/3-VuMark.unity
     guid: d9b53b25a285640cf8ac170a80603e34
   - enabled: 1
-    path: Assets/Scenes/Main Menu.unity
+    path: Assets/_Scenes/Main Menu.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
-    path: Assets/Scenes/BlueBalls.unity
+    path: Assets/_Scenes/BlueBalls.unity
     guid: fcaaecb4e8567d94abd012c5d6a9925a
   - enabled: 1
-    path: Assets/Scenes/TutorialScreen.unity
+    path: Assets/_Scenes/TutorialScreen.unity
     guid: d1c1c9b9aae5d7d4398cf369123266b4
   m_configObjects: {}
